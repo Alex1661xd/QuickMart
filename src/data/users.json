@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1732058768907",
+    "email": "test00@example.com",
+    "password": "$2a$10$8nTT4uKc7aoYgqtlXlqawO2tNySID9QI044YWl2xPPv0Jtxjg.GsO",
+    "role": "admin",
+    "createdAt": "2024-11-19T23:26:08.907Z"
+  },
+  {
+    "id": "1732070186568",
+    "email": "test01@example.com",
+    "password": "$2a$10$x1r1uIlaQoPDiBUojf/XwewaYaShBjPyL0l3tKBkQCesVELX3JREG",
+    "role": "client",
+    "createdAt": "2024-11-20T02:36:26.568Z"
+  },
+  {
+    "id": "1732077904963",
+    "email": "test03@example.com",
+    "password": "$2a$10$ULUBMao0cfIkR/CNXtwU6uoVCEVpTwV080ZhBPcgWbK21/.JxHvLa",
+    "role": "client",
+    "createdAt": "2024-11-20T04:45:04.963Z"
+  },
+  {
+    "id": "1732115264152",
+    "email": "test5@example.com",
+    "password": "$2a$10$jtA6lKunhAN9kK36JU.DCOGvupxf1sgZlCWYE/5dLB9RzGxQlJsLq",
+    "role": "client",
+    "createdAt": "2024-11-20T15:07:44.152Z"
+  },
+  {
+    "id": "1732131740592",
+    "email": "test003@example.com",
+    "password": "$2a$10$rX0oBWvuQafPbA9mF0cWmuSLIDDQLzgzfy9dnd1HC1Oy8bSRlqfnm",
+    "role": "client",
+    "createdAt": "2024-11-20T19:42:20.592Z"
+  }
+]

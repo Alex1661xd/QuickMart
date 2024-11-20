@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1732116971641",
+    "userEmail": "test01@example.com",
+    "items": [
+      {
+        "id": "1732069840780",
+        "name": "Manzana",
+        "price": 85,
+        "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+        "createdAt": "2024-11-20T02:30:40.780Z",
+        "userEmail": "test01@example.com",
+        "quantity": 4
+      }
+    ],
+    "total": 340,
+    "date": "2024-11-20T15:36:11.642Z"
+  },
+  {
+    "id": "1732117058015",
+    "userEmail": "test01@example.com",
+    "items": [
+      {
+        "id": "1732117031480",
+        "name": "Uva",
+        "price": 85,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9pO9JGrZbqjx1O7XsjK9wWAMpq7GFGRSWw&s",
+        "createdAt": "2024-11-20T15:37:11.480Z",
+        "userEmail": "test01@example.com",
+        "quantity": 3
+      },
+      {
+        "id": "1732069840780",
+        "name": "Manzana",
+        "price": 85,
+        "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+        "createdAt": "2024-11-20T02:30:40.780Z",
+        "userEmail": "test01@example.com",
+        "quantity": 2
+      }
+    ],
+    "total": 425,
+    "date": "2024-11-20T15:37:38.015Z"
+  },
+  {
+    "id": "1732130410232",
+    "userEmail": "test01@example.com",
+    "items": [
+      {
+        "id": "1732069840780",
+        "name": "Manzana",
+        "price": 85,
+        "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+        "createdAt": "2024-11-20T02:30:40.780Z",
+        "userEmail": "test01@example.com",
+        "quantity": 1
+      },
+      {
+        "id": "1732129066985",
+        "name": "alexis",
+        "price": 230000,
+        "image": "https://media.licdn.com/dms/image/v2/D4E35AQFm1GA9Xau_4g/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719675142736?e=1732734000&v=beta&t=c0qpZWcvgxGcZ05zAUD9qLRe2gqeMJgPVYtbbVvRkyc",
+        "createdAt": "2024-11-20T18:57:46.985Z",
+        "userEmail": "test01@example.com",
+        "quantity": 1
+      }
+    ],
+    "total": 230085,
+    "date": "2024-11-20T19:20:10.232Z"
+  },
+  {
+    "id": "1732130483489",
+    "userEmail": "test01@example.com",
+    "items": [
+      {
+        "id": "1732069840780",
+        "name": "Manzana",
+        "price": 85,
+        "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+        "createdAt": "2024-11-20T02:30:40.780Z",
+        "userEmail": "test01@example.com",
+        "quantity": 1
+      }
+    ],
+    "total": 85,
+    "date": "2024-11-20T19:21:23.490Z"
+  }
+]

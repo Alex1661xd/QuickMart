@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1732069840780",
+    "name": "Manzana",
+    "price": 85,
+    "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+    "createdAt": "2024-11-20T02:30:40.780Z"
+  },
+  {
+    "id": "1732117031480",
+    "name": "Uva",
+    "price": 85,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9pO9JGrZbqjx1O7XsjK9wWAMpq7GFGRSWw&s",
+    "createdAt": "2024-11-20T15:37:11.480Z"
+  },
+  {
+    "id": "1732129066985",
+    "name": "alexis",
+    "price": 230000,
+    "image": "https://media.licdn.com/dms/image/v2/D4E35AQFm1GA9Xau_4g/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719675142736?e=1732734000&v=beta&t=c0qpZWcvgxGcZ05zAUD9qLRe2gqeMJgPVYtbbVvRkyc",
+    "createdAt": "2024-11-20T18:57:46.985Z"
+  },
+  {
+    "id": "1732132971520",
+    "name": "proyectico",
+    "price": 3434433,
+    "image": "https://media.licdn.com/dms/image/v2/D4E35AQFm1GA9Xau_4g/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719675142736?e=1732734000&v=beta&t=c0qpZWcvgxGcZ05zAUD9qLRe2gqeMJgPVYtbbVvRkyc",
+    "createdAt": "2024-11-20T20:02:51.520Z"
+  }
+]

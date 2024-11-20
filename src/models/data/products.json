@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1732069187176",
+    "name": "Manzana",
+    "price": 100,
+    "image": "jsdhcsjs",
+    "createdAt": "2024-11-20T02:19:47.176Z"
+  },
+  {
+    "id": "1732069199735",
+    "name": "Crystal shorter",
+    "price": 95,
+    "image": "gshshhsc",
+    "createdAt": "2024-11-20T02:19:59.735Z"
+  }
+]
