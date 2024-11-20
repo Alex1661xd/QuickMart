@@ -1,17 +1,7 @@
 [
   {
     "userEmail": "test01@example.com",
-    "items": [
-      {
-        "id": "1732069840780",
-        "name": "Manzana",
-        "price": 85,
-        "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
-        "createdAt": "2024-11-20T02:30:40.780Z",
-        "userEmail": "test01@example.com",
-        "quantity": 2
-      }
-    ]
+    "items": []
   },
   {
     "userEmail": "test5@example.com",
